@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0011-container-with-most-water) |
+| [0217-contains-duplicate](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0238-product-of-array-except-self) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0182-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
