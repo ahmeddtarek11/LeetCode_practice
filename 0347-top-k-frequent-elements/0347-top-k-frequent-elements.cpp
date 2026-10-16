@@ -12,7 +12,7 @@ public:
             }
         }
         priority_queue<pair<int,int>> pq ;
-        for(const auto &entry : mp ){
+        for(auto entry : mp ){
             pair<int,int> pp = {entry.second , entry.first};
             pq.push(pp);
         }
