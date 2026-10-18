@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ahmeddtarek11/LeetCode_practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
